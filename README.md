@@ -9,6 +9,7 @@
 ![Security Headers](https://img.shields.io/security-headers?url=http%3A%2F%2Ffptu-cms.tk)
 ![Package.json version](https://img.shields.io/github/package-json/v/fptu-cms/front-end)
 ![GitHub](https://img.shields.io/github/license/fptu-cms/front-end)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffptu-cms%2Ffront-end.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffptu-cms%2Ffront-end?ref=badge_shield)
 
 This project was based on [Create React App](https://github.com/facebook/create-react-app). [(3.4.3 (2020-08-12))](https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md)
 
@@ -59,3 +60,7 @@ Analyze output: `yarn analyze`
 - GraphQL - Relay/Apollo
 - Eject/Config Webpack - Server-Side rendering
 - Config PWA - workbox/firebase
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffptu-cms%2Ffront-end.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffptu-cms%2Ffront-end?ref=badge_large)
